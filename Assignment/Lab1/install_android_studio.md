@@ -27,3 +27,4 @@
    - ![image-20210310163754525](../../asset/Lab1/install_android_studio/verify_settings.png)
 
 5. Test the Android Studio in Lab 2!
+
