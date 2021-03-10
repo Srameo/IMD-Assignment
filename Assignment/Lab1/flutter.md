@@ -4,7 +4,16 @@
 
 > [Flutter](https://flutter.dev) is Google’s UI toolkit for building beautiful, natively compiled applications for [mobile](https://flutter.dev/docs), [web](https://flutter.dev/web), and [desktop](https://flutter.dev/desktop) from a single codebase.
 
-[TOC]
+- [Flutter](#flutter)
+  - [Three Main Characteristics](#three-main-characteristics)
+    - [Fast Development](#fast-development)
+    - [Expressive and Flexible UI](#expressive-and-flexible-ui)
+    - [Native Performance](#native-performance)
+  - [Try Flutter in your browser](#try-flutter-in-your-browser)
+  - [Fast development](#fast-development-1)
+  - [Expressive, beautiful UIs](#expressive-beautiful-uis)
+    - [Reflectly](#reflectly)
+  - [Native Performance](#native-performance-1)
 
 ## Three Main Characteristics
 

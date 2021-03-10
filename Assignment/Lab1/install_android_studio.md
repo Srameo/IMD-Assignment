@@ -1,6 +1,9 @@
 ### Install Android Studio
 
-[TOC]
+- [Install Android Studio](#install-android-studio)
+  - [Download](#download)
+  - [Install](#install)
+  - [Config](#config)
 
 #### Download
 
