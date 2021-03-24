@@ -8,6 +8,6 @@
 
 1. [Lab 1. Kick off](./Assignment/Lab1/Lab1_Kick_off.md)
    - [Install Android Studio](./Assignment/Lab1/install_android_studio.md)
-
 2. [Lab 2. Get started](./Assignment/Lab2/Lab2_Get_started.md)
+3. [Lab 3. Hello Toast!](./Assignment/Lab3/Lab3.md)
 
