@@ -8,15 +8,15 @@
 
 1. MainAvtivity - Layout
 
-<img src="../../../asset/Lab4/Practice/MainActivity_layout.png" alt="image-20210402164826305" style="zoom: 25%;" />
+![image-20210402164826305](../../../asset/Lab4/Practice/MainActivity_layout.png)
 
 2. SecondAvtivity - Layout (with Message "Hello")
 
-<img src="../../../asset/Lab4/Practice/SecondActivity_layout.png" alt="image-20210402165758020" style="zoom:25%;" />
+![image-20210402165758020](../../../asset/Lab4/Practice/SecondActivity_layout.png)
 
 3. MainAvtivity - Layout (With Reply Message "How Are You?")
 
-<img src="../../../asset/Lab4/Practice/MainActivity_layout_reply.png" alt="image-20210402170029119" style="zoom:25%;" />
+![image-20210402170029119](../../../asset/Lab4/Practice/MainActivity_layout_reply.png)
 
 ## Video
 

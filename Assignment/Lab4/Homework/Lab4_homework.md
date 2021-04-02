@@ -11,19 +11,19 @@
 
 1. MainActivity
 
-<img src="../../../asset/Lab4/Practice/MainActivity_layout_homework.png" alt="image-20210402205658561" style="zoom:25%;" />
+![image-20210402205658561](../../../asset/Lab4/Practice/MainActivity_layout_homework.png)
 
 2. ShowCountActivity
 
-<img src="../../../asset/Lab4/Practice/MainActivity_layout_homework_showcount.png" alt="image-20210402205742655" style="zoom:25%;" />
+![image-20210402205742655](../../../asset/Lab4/Practice/MainActivity_layout_homework.png)
 
 3. MainActivity - Not Zero
 
-<img src="../../../asset/Lab4/Practice/MainActivity_layout_homework_not_0.png" alt="image-20210402205823933" style="zoom:25%;" />
+![image-20210402205823933](../../../asset/Lab4/Practice/MainActivity_layout_homework_not_0.png)
 
 4. ShowCountActivity - Not Zero
 
-<img src="../../../asset/Lab4/Practice/MainActivity_layout_homework_not_0_showcount.png" alt="image-20210402205857774" style="zoom:25%;" />
+![image-20210402205857774](../../../asset/Lab4/Practice/MainActivity_layout_homework_not_0_showcount.png)
 
 ## Video
 
@@ -33,7 +33,7 @@
 
 [code dir](./code)
 
-1. `MainActivity.Java`
+### `MainActivity.Java`
 
 ```Java
 package com.example.toast;
@@ -115,7 +115,7 @@ public class MainActivity extends AppCompatActivity {
 }
 ```
 
-2. `SayHelloActivity.Java`
+### `SayHelloActivity.Java`
 
 ```Java
 package com.example.toast;
@@ -142,7 +142,7 @@ public class SayHelloActivity extends AppCompatActivity {
 }
 ```
 
-3. `activity_say_hello.xml`
+### `activity_say_hello.xml`
 
 ```xml
 <?xml version="1.0" encoding="utf-8"?>

@@ -22,13 +22,13 @@
 
 ### Runtime ScreenShoot
 
-<img src="../../asset/Lab3/runtime_ss1.png" alt="image-20210325110816952" style="zoom:33%;" /><img src="../../asset/Lab3/runtime_ss2.png" alt="image-20210325110919467" style="zoom: 33%;" />
+![image-20210325110816952](../../asset/Lab3/runtime_ss1.png)
 
-<img src="../../asset/Lab3/runtime_ss3.png" alt="image-20210325111019422" style="zoom:33%;" />
+![image-20210325110919467](../../asset/Lab3/runtime_ss2.png)
 
-<img src="../../asset/Lab3/runtime_ss4.png" alt="image-20210325111046527" style="zoom:33%;" />
+![image-20210325111019422](../../asset/Lab3/runtime_ss3.png)
 
-
+![image-20210325111046527](../../asset/Lab3/runtime_ss4.png)
 
 ## Video
 

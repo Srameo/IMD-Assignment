@@ -11,9 +11,9 @@
 
 1. Create a Helloworld project
 
-<img src="../../asset/Lab2/create_project_1.png" alt="image-2021031716185070" style="zoom: 25%;" />
+![image-2021031716185070](../../asset/Lab2/create_project_1.png)
 
-<img src="../../asset/Lab2/create_project_2.png" alt="image-20210317162203271" style="zoom: 25%;" />
+![image-20210317162203271](../../asset/Lab2/create_project_2.png)
 
 2. Click the `activity_main.xml` tab to see the layout editor.
 
@@ -29,7 +29,7 @@ and the code of the layout editor
 
 4. Run the project in **a virtual device**
 
-<img src="../../asset/Lab2/virtual_device.png" alt="image-20210317165007731" style="zoom: 33%;" />
+![image-20210317165007731](../../asset/Lab2/virtual_device.png)
 
 ### Test other project
 
@@ -61,11 +61,11 @@ and the code of the layout editor
 
 7. Rerun the project
 
-<img src="../../asset/Lab2/pip.png" alt="image-20210317172454842" style="zoom:25%;" />
+![image-20210317172454842](../../asset/Lab2/pip.png)
 
 Enter the Picture-in-Picture mode
 
-<img src="../../asset/Lab2/pip_mode_in_pip.png" alt="image-20210317172551704" style="zoom:25%;" />
+![image-20210317172551704](../../asset/Lab2/pip_mode_in_pip.png)
 
 <font color="red">I also tested and read other project from [the formal github account of the android](https://github.com/android/media-samples)</font>
 
