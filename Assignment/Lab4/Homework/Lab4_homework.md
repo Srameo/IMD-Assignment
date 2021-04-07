@@ -15,7 +15,7 @@
 
 2. ShowCountActivity
 
-![image-20210402205742655](../../../asset/Lab4/Practice/MainActivity_layout_homework.png)
+![image-20210402205742655](../../../asset/Lab4/Practice/MainActivity_layout_homework_showcount.png)
 
 3. MainActivity - Not Zero
 
