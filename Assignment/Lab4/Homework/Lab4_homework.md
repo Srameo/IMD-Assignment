@@ -15,15 +15,15 @@
 
 2. ShowCountActivity
 
-![image-20210402205742655](../../../asset/Lab4/Practice/MainActivity_layout_homework_showcount.png)
+<img src="../../../asset/Lab4/Practice/MainActivity_layout_homework_showcount.png" alt="image-20210402205742655" style="zoom:25%;" />
 
 3. MainActivity - Not Zero
 
-![image-20210402205823933](../../../asset/Lab4/Practice/MainActivity_layout_homework_not_0.png)
+<img src="../../../asset/Lab4/Practice/MainActivity_layout_homework_not_0.png" alt="image-20210402205823933" style="zoom:25%;" />
 
 4. ShowCountActivity - Not Zero
 
-![image-20210402205857774](../../../asset/Lab4/Practice/MainActivity_layout_homework_not_0_showcount.png)
+<img src="../../../asset/Lab4/Practice/MainActivity_layout_homework_not_0_showcount.png" alt="image-20210402205857774" style="zoom:25%;" />
 
 ## Video
 

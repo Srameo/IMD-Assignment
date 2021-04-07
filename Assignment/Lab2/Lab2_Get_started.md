@@ -29,7 +29,7 @@ and the code of the layout editor
 
 4. Run the project in **a virtual device**
 
-![image-20210317165007731](../../asset/Lab2/virtual_device.png)
+<img src="../../asset/Lab2/virtual_device.png" alt="image-20210317165007731" style="zoom:25%;" />
 
 ### Test other project
 
@@ -61,11 +61,11 @@ and the code of the layout editor
 
 7. Rerun the project
 
-![image-20210317172454842](../../asset/Lab2/pip.png)
+<img src="../../asset/Lab2/pip.png" alt="image-20210317172454842" style="zoom:25%;" />
 
 Enter the Picture-in-Picture mode
 
-![image-20210317172551704](../../asset/Lab2/pip_mode_in_pip.png)
+<img src="../../asset/Lab2/pip_mode_in_pip.png" alt="image-20210317172551704" style="zoom:25%;" />
 
 <font color="red">I also tested and read other project from [the formal github account of the android](https://github.com/android/media-samples)</font>
 
