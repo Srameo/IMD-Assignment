@@ -11,7 +11,7 @@
 
 1. MainActivity
 
-![image-20210402205658561](../../../asset/Lab4/Practice/MainActivity_layout_homework.png)
+<img src="../../../asset/Lab4/Practice/MainActivity_layout_homework.png" alt="image-20210402205658561" style="zoom:25%;" />
 
 2. ShowCountActivity
 
