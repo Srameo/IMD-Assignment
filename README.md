@@ -18,3 +18,5 @@
 5. Lab5. ImplictIntents
    1. [Pratice](./Assignment/Lab5/Practice/Lab5_Practice.md)
    2. [Homework](./Assignment/Lab5/Homework/Lab5_homework.md)
+6. [Lab6. Droid Desserts](./Assignment/Lab6/Lab6.md)
+
