@@ -15,3 +15,6 @@
    1. [Practice](Assignment/Lab4/Practice/Lab4_practice.md)
    2.  [Homework](Assignment/Lab4/Homework/Lab4_homework.md) 
 
+5. Lab5. ImplictIntents
+   1. [Pratice](./Assignment/Lab5/Practice/Lab5_Practice.md)
+   2. [Homework](./Assignment/Lab5/Homework/Lab5_homework.md)
