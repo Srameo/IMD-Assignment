@@ -22,3 +22,4 @@
    2. [Part B. Tab Experiment](./Assignment/Lab7/part_B.md)
    3. [Part C. RecyclerView](./Assignment/Lab7/part_C.md)
 
+8. [Lab8. MaterialMe](./Assignment/Lab8/Lab8.md)
