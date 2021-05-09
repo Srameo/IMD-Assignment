@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">GetWebPageSourceCode</string>
+    <string name="hint_string">Enter URL:</string>
+    <string name="default_web_location">www.baidu.com</string>
+    <string name="get_page_button">GET PAGE SOURCE</string>
+    <string name="default_context">Nothing here …</string>
+    <string name="loading">Loading ...</string>
+    <string name="no_network">Failed to connect the network!</string>
+
+    <string-array name="http_or_https">
+        <item>http://</item>
+        <item>https://</item>
+    </string-array>
+</resources>

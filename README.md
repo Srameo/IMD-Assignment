@@ -21,5 +21,10 @@
    1. [Part A. Droid Cafe Input](./Assignment/Lab7/part_A.md)
    2. [Part B. Tab Experiment](./Assignment/Lab7/part_B.md)
    3. [Part C. RecyclerView](./Assignment/Lab7/part_C.md)
-
 8. [Lab8. MaterialMe](./Assignment/Lab8/Lab8.md)
+9. Lab9
+   1. [Practice: Who Wrote It?](./Assignment/Lab9/Practice/Who%20Wrote%20It?.md)
+      - [code link](./Assignment/Lab9/Practice/WhoWroteIt) 
+   2. [Homework: Get Web Page Source Code](./Assignment/Lab9/Homework/Get%20Web%20Page%20Source%20Code.md)
+      - [code link](./Assignment/Lab9/Homework/GetWebPageSourceCode) 
+
