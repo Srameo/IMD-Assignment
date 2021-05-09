@@ -25,7 +25,7 @@
    3. [Part C. RecyclerView](./Assignment/Lab7/part_C.md)
 8. [Lab8. MaterialMe](./Assignment/Lab8/Lab8.md)
    - [code link](./Assignment/Lab8/code)
-9.  Lab9
+9. Lab9
    1. [Practice: Who Wrote It?](./Assignment/Lab9/Practice/Who%20Wrote%20It?.md)
       - [code link](./Assignment/Lab9/Practice/WhoWroteIt) 
    2. [Homework: Get Web Page Source Code](./Assignment/Lab9/Homework/Get%20Web%20Page%20Source%20Code.md)
